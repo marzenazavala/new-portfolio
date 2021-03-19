@@ -24,7 +24,7 @@ export const aboutData = {
     "Proven experience developing consumer-focused web sites using React and Redux. Experience building products for desktop responding to challenges by designing and developing solutions and building web applications aligned to customer's services.",
   paragraphThree:
     'Interested in role with company promoting best practices and offering diverse customer projects.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/marzena-bortnowska-zavala-dev/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
