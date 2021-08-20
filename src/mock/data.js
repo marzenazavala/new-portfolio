@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 't4s_project.png',
+    title: 'Travel4Spanish App',
+    info: 'Travel4Spanish Club - Application for Spanish language school',
+    info2: 'Tech stack: React, Firebase, Material-UI, Strapi, Deployment: amplify',
+    url: 'https://travel4spanish.com',
+    repo: 'https://github.com/marzenazavala/travel4spanish-page', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project4.png',
     title: 'FiestaTime App',
     info: 'Experience sharing application to earn money by organizing online events',
